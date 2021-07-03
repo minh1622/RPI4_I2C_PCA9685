@@ -1,3 +1,4 @@
+#Bien dich cheo cho raspberry pi
 obj-m += driver_servo.o
 
 KDIR = /lib/modules/$(shell uname -r)/build
